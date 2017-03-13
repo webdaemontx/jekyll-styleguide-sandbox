@@ -27,8 +27,8 @@ category: colors
 <!-- Color: link -->
 <div class="sg-component sg-component--color" id="link">
 	<h2 class="sg-component__title">Hyperlinks</h2>
-	<div class="sg-color-swatch" style="background-color:#1E90FF">
-		<code class="sg-color-swatch__color">#1E90FF</code>
+	<div class="sg-color-swatch" style="background-color:#FFFFFF">
+		<code class="sg-color-swatch__color">#385443</code>
 		<code class="sg-color-swatch__color">$cl-link</code>
 	</div>
 </div>
@@ -36,8 +36,8 @@ category: colors
 <!-- Color: link hover -->
 <div class="sg-component sg-component--color" id="link">
 	<h2 class="sg-component__title">:hover</h2>
-	<div class="sg-color-swatch" style="background-color:#FF901E">
-		<code class="sg-color-swatch__color">#FF901E</code>
+	<div class="sg-color-swatch" style="background-color:#FFFFFF">
+		<code class="sg-color-swatch__color">#c09212</code>
 		<code class="sg-color-swatch__color">$cl-link-hover</code>
 	</div>
 </div>
@@ -45,8 +45,8 @@ category: colors
 <!-- Color: text -->
 <div class="sg-component sg-component--color" id="text">
 	<h2 class="sg-component__title">Text</h2>
-	<div class="sg-color-swatch" style="background-color:#111">
-		<code class="sg-color-swatch__color">#111</code>
+	<div class="sg-color-swatch" style="background-color:#FFFFFF">
+		<code class="sg-color-swatch__color">#333333</code>
 		<code class="sg-color-swatch__color">$cl-text</code>
 	</div>
 </div>
@@ -122,4 +122,3 @@ category: colors
 		<code class="sg-color-swatch__color">$cl-white</code>
 	</div>
 </div>
-
